@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+cohere
+pydantic
+streamlit
+requests
+pyngrok
+nest-asyncio
